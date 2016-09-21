@@ -1,2 +1,3 @@
 # hello-world
-Thi is my first project in GitHub.
+This is my first project in GitHub.
+and this is my readme.md file of my project.
